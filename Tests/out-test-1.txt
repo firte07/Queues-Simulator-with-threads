@@ -1,0 +1,205 @@
+Time: 0
+Waiting clients: [( 3, 17, 3 ), ( 1, 22, 3 ), ( 2, 25, 3 ), ( 0, 30, 3 )]
+Coada 1: closed
+Coada 2: closed
+
+
+Time: 1
+Waiting clients: [( 3, 17, 3 ), ( 1, 22, 3 ), ( 2, 25, 3 ), ( 0, 30, 3 )]
+Coada 1: closed
+Coada 2: closed
+
+
+Time: 2
+Waiting clients: [( 3, 17, 3 ), ( 1, 22, 3 ), ( 2, 25, 3 ), ( 0, 30, 3 )]
+Coada 1: closed
+Coada 2: closed
+
+
+Time: 3
+Waiting clients: [( 3, 17, 3 ), ( 1, 22, 3 ), ( 2, 25, 3 ), ( 0, 30, 3 )]
+Coada 1: closed
+Coada 2: closed
+
+
+Time: 4
+Waiting clients: [( 3, 17, 3 ), ( 1, 22, 3 ), ( 2, 25, 3 ), ( 0, 30, 3 )]
+Coada 1: closed
+Coada 2: closed
+
+
+Time: 5
+Waiting clients: [( 3, 17, 3 ), ( 1, 22, 3 ), ( 2, 25, 3 ), ( 0, 30, 3 )]
+Coada 1: closed
+Coada 2: closed
+
+
+Time: 6
+Waiting clients: [( 3, 17, 3 ), ( 1, 22, 3 ), ( 2, 25, 3 ), ( 0, 30, 3 )]
+Coada 1: closed
+Coada 2: closed
+
+
+Time: 7
+Waiting clients: [( 3, 17, 3 ), ( 1, 22, 3 ), ( 2, 25, 3 ), ( 0, 30, 3 )]
+Coada 1: closed
+Coada 2: closed
+
+
+Time: 8
+Waiting clients: [( 3, 17, 3 ), ( 1, 22, 3 ), ( 2, 25, 3 ), ( 0, 30, 3 )]
+Coada 1: closed
+Coada 2: closed
+
+
+Time: 9
+Waiting clients: [( 3, 17, 3 ), ( 1, 22, 3 ), ( 2, 25, 3 ), ( 0, 30, 3 )]
+Coada 1: closed
+Coada 2: closed
+
+
+Time: 10
+Waiting clients: [( 3, 17, 3 ), ( 1, 22, 3 ), ( 2, 25, 3 ), ( 0, 30, 3 )]
+Coada 1: closed
+Coada 2: closed
+
+
+Time: 11
+Waiting clients: [( 3, 17, 3 ), ( 1, 22, 3 ), ( 2, 25, 3 ), ( 0, 30, 3 )]
+Coada 1: closed
+Coada 2: closed
+
+
+Time: 12
+Waiting clients: [( 3, 17, 3 ), ( 1, 22, 3 ), ( 2, 25, 3 ), ( 0, 30, 3 )]
+Coada 1: closed
+Coada 2: closed
+
+
+Time: 13
+Waiting clients: [( 3, 17, 3 ), ( 1, 22, 3 ), ( 2, 25, 3 ), ( 0, 30, 3 )]
+Coada 1: closed
+Coada 2: closed
+
+
+Time: 14
+Waiting clients: [( 3, 17, 3 ), ( 1, 22, 3 ), ( 2, 25, 3 ), ( 0, 30, 3 )]
+Coada 1: closed
+Coada 2: closed
+
+
+Time: 15
+Waiting clients: [( 3, 17, 3 ), ( 1, 22, 3 ), ( 2, 25, 3 ), ( 0, 30, 3 )]
+Coada 1: closed
+Coada 2: closed
+
+
+Time: 16
+Waiting clients: [( 3, 17, 3 ), ( 1, 22, 3 ), ( 2, 25, 3 ), ( 0, 30, 3 )]
+Coada 1: closed
+Coada 2: closed
+
+
+Time: 17
+Waiting clients: [( 1, 22, 3 ), ( 2, 25, 3 ), ( 0, 30, 3 )]
+Coada 1: [( 3, 17, 3 )]
+Coada 2: closed
+
+
+Time: 18
+Waiting clients: [( 1, 22, 3 ), ( 2, 25, 3 ), ( 0, 30, 3 )]
+Coada 1: [( 3, 17, 2 )]
+Coada 2: closed
+
+
+Time: 19
+Waiting clients: [( 1, 22, 3 ), ( 2, 25, 3 ), ( 0, 30, 3 )]
+Coada 1: [( 3, 17, 1 )]
+Coada 2: closed
+
+
+Time: 20
+Waiting clients: [( 1, 22, 3 ), ( 2, 25, 3 ), ( 0, 30, 3 )]
+Coada 1: closed
+Coada 2: closed
+
+
+Time: 21
+Waiting clients: [( 1, 22, 3 ), ( 2, 25, 3 ), ( 0, 30, 3 )]
+Coada 1: closed
+Coada 2: closed
+
+
+Time: 22
+Waiting clients: [( 2, 25, 3 ), ( 0, 30, 3 )]
+Coada 1: [( 1, 22, 3 )]
+Coada 2: closed
+
+
+Time: 23
+Waiting clients: [( 2, 25, 3 ), ( 0, 30, 3 )]
+Coada 1: [( 1, 22, 2 )]
+Coada 2: closed
+
+
+Time: 24
+Waiting clients: [( 2, 25, 3 ), ( 0, 30, 3 )]
+Coada 1: [( 1, 22, 1 )]
+Coada 2: closed
+
+
+Time: 25
+Waiting clients: [( 0, 30, 3 )]
+Coada 1: [( 2, 25, 3 )]
+Coada 2: closed
+
+
+Time: 26
+Waiting clients: [( 0, 30, 3 )]
+Coada 1: [( 2, 25, 2 )]
+Coada 2: closed
+
+
+Time: 27
+Waiting clients: [( 0, 30, 3 )]
+Coada 1: [( 2, 25, 1 )]
+Coada 2: closed
+
+
+Time: 28
+Waiting clients: [( 0, 30, 3 )]
+Coada 1: closed
+Coada 2: closed
+
+
+Time: 29
+Waiting clients: [( 0, 30, 3 )]
+Coada 1: closed
+Coada 2: closed
+
+
+Time: 30
+Waiting clients: []
+Coada 1: [( 0, 30, 3 )]
+Coada 2: closed
+
+
+Time: 31
+Waiting clients: []
+Coada 1: [( 0, 30, 2 )]
+Coada 2: closed
+
+
+Time: 32
+Waiting clients: []
+Coada 1: [( 0, 30, 1 )]
+Coada 2: closed
+
+
+Time: 33
+Waiting clients: []
+Coada 1: closed
+Coada 2: closed
+
+
+Average waiting time: 3.0
