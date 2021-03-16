@@ -14,7 +14,7 @@ public class SimulationManager implements Runnable {
     public int minServiceTime;
     public int maxServiceTime;
     public int nrCase;
-    public int nrClienti;           //nush dc is public
+    public int nrClienti;           
     public String rezultat;
     private Scheduler scheduler;
     private List<Client> clienti;
